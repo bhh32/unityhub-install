@@ -1,7 +1,7 @@
 # Unity Installation/Uninstallation
 
 ## Install Script
-The purpose of the install-unityhub.sh script is to properly install the official Unity Hub program from Unity Technologies with proper Ubuntu/Ubuntu Based key management. 
+The purpose of the install-unityhub.sh script is to properly install the official Unity Hub program from Unity Technologies with proper Ubuntu/Ubuntu-based key management. 
 
 Since the offical installation forum from Unity tells the user to use apt-key, which is depricated, this installation script will install it and its keys properly and result in no apt warnings when running the sudo apt update command.
 
